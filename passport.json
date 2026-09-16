@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "curriculum_version": "2.1.2",
+  "github_user": "n-rubin",
+  "source_repository": "soheylm-passport-sandbox/passport-exercises",
+  "fork_repository": "n-rubin/passport-exercises",
+  "assessment_branch": "onboarding/n-rubin",
+  "platform": "linux",
+  "responsibilities": [
+    "data_steward",
+    "git",
+    "python"
+  ],
+  "missions": [
+    "core-orientation",
+    "core-accounts-secrets",
+    "core-systems-data",
+    "core-incidents-ai-responsibility",
+    "git-tools-auth",
+    "git-manual-pr",
+    "python-environment",
+    "python-reproducible-change",
+    "data-placement",
+    "data-collaboration",
+    "data-handover"
+  ],
+  "setup_complete": true
+}
